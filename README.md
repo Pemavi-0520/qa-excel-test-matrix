@@ -32,3 +32,7 @@ Durante la ejecución se documentaron varios defectos reales, entre ellos:
 ## Cómo revisar el archivo
 
 Descarga `qa-test-matrix.xlsx` y ábrelo en Excel. La vista previa integrada de GitHub muestra una tabla básica, pero no refleja el formato condicional ni el gráfico del Dashboard — eso solo se ve completo al abrirlo directamente.
+
+## Contacto
+
+Mario Victorio — QA / Systems Engineer Jr. / mae.vic@outlook.com / https://www.linkedin.com/in/mariovictorio/
